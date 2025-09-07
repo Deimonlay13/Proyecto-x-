@@ -1,5 +1,9 @@
 /* Reset básico - Eliminamos espacios por defecto del navegador */
 /* Esto nos da control total sobre el espaciado de nuestros elementos */
+
+body {
+  background: lightblue;
+}
 * {
     margin: 0;          /* Sin márgenes por defecto */
     padding: 0;         /* Sin rellenos por defecto */
