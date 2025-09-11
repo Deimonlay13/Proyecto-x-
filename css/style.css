@@ -117,6 +117,15 @@ html {
     /* Altura fija del header */
 }
 
+.container {
+    max-width: 1200px;
+    /* Ancho máximo para legibilidad */
+    margin: 0 auto;
+    /* Centrado automático */
+    padding: 0 20px;
+    /* Espacios laterales en móviles */
+}
+
 
 /* Estilo del logo - Nuestra marca */
 
